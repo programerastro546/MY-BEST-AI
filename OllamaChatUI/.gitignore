@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pythonlibs/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Ollama
+ollama/
